@@ -5,7 +5,8 @@
 Maile:   zverinalev@gmail.com
 
 Phone namber: +38 093 244 32 09 
-_____
+
+
 
 ## About me.
 
@@ -16,7 +17,8 @@ I like sport, dogs and good jokes. I know how to study and often do it.
 " who owns knowledge owns the world"*** 
 
 > Book is one of the greatest achievements of mankind. And web applications is the dynamic book of our century.
-_____
+
+
 
 ## Education.
 Graduate from university:
@@ -30,7 +32,8 @@ And made my first website. It was to build right with point of wou SEO аnd lead
 
 **My English level now is A-2 but it is are being improved.**
 
-_____
+
+
 
 ## Work experience
 I worked as a locksmith. I served mechanicals locks and system security.
@@ -38,7 +41,8 @@ I worked as a locksmith. I served mechanicals locks and system security.
 Now I sell a lot of good things for door and security on the internet. 
 
 And sometimes do seo optimization for my clients websites.
-______
+
+
 
 ## Use the seo program in work.
 * Serpstat
@@ -50,6 +54,6 @@ ______
 * Text.ru
 
 ### Аlso Use in work with websites
-* CMS Wordpress.
-* Аdobe photoshop.
-* Balsamiq.
+* CMS Wordpress 
+* Аdobe photoshop 
+* Balsamiq 
