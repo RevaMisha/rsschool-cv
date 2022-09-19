@@ -50,6 +50,6 @@ ______
 * Text.ru
 
 ### Аlso Use in work with websites
-* CMS Wordpress
-* Аdobe photoshop
-* Balsamiq
+* CMS Wordpress.
+* Аdobe photoshop.
+* Balsamiq.
