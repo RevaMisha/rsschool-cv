@@ -1,1 +1,3 @@
-https://RevaMisha.github.io/rsschool-cv/cv
+# HTML, CSS
+
+https://RevaMisha.github.io/rsschool-cv/
